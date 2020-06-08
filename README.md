@@ -1,2 +1,4 @@
 # Musical-Markov-Chains
-https://www.nytimes.com/2020/05/10/world/europe/coronavirus-britain-boris-johnson.html
+May 2020, IRCAM: applied Markov models to algorithmic composition
+MATLAB code for hidden markov model genre classifier 
+Python code for Markov-chain based compositions 
